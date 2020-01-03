@@ -17,7 +17,7 @@ Checks a file location for disk space before creating a .bak backup. Subsequentl
 ## How to use
 
 ```bash
-git clone repo
+git clone https://github.com/jnre/SQL_backupremote.git
 ```
 
 Restore the 2 jobs:
